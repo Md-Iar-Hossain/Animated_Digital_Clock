@@ -1,7 +1,7 @@
 Hello coders, <br>
 I have created *Animated Digital Clock* for you.<br>
 **Author:** Muhammad iar Hossain <br>
-**Date of creation:** 8th December <br>
+**Date of creation:** 8th December 2023 <br>
 **Used Technology:** HTML5, CSS3, Vanilla JS <br>
 compatible with all major web browsers <br> 
 
